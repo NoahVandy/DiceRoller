@@ -1,4 +1,6 @@
-﻿using System;
+﻿//this is my own work
+//Noah Vandervelden
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +15,7 @@ namespace DiceRoller
     public partial class Form1 : Form
     {
         int count = 0;
+
         public Form1()
         {
             InitializeComponent();
